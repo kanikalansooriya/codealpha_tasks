@@ -39,6 +39,6 @@
 
 ## 🛠 Tools Used
 
-* Power BI
+* power bi
 * DAX
 * Data Modeling
